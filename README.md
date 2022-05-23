@@ -1,3 +1,32 @@
+# Expense Management App
+Expense Management App in which you will add the Budget and expense Datails the app will keep you record safe and shows you your Total Expense anf Arrears from your Budget. 
+
+# Technologies and UI
+- React 
+- Material-UI
+
+# Specialities
+- Budget Dialog
+- Expense Dialog
+- Arrears Progressor
+- Deletion of Expense
+- Data Persistance
+
+# First App View
+![firstscreen](https://user-images.githubusercontent.com/58617259/169844810-c6e4b1a7-aa14-46a1-8c18-8d4b8e71ab8b.png)
+
+# Budget Dialog View
+![second](https://user-images.githubusercontent.com/58617259/169844698-fa0bd1d5-941f-431c-b707-6463027116b9.png)
+
+# Expense Dialog View
+![fourth](https://user-images.githubusercontent.com/58617259/169844968-567db048-2e77-4276-af71-d7d9d52ccd54.png)
+
+# Complete View of App after Adding an Expense
+![fifth](https://user-images.githubusercontent.com/58617259/169845221-838d5eba-2045-4c62-91cd-9b7fbcec7b95.png)
+
+# Error View
+![sixth](https://user-images.githubusercontent.com/58617259/169845302-c8f337e3-ae5b-4ea7-9ff1-df5a41d809bd.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
